@@ -33,10 +33,11 @@ function Carousel({
 
           return (
             <SliderItem key={video.titulo}>
-              <VideoCard
+            <VideoCard
                 videoTitle={video.titulo}
                 videoURL={video.url}
                 categoryColor={categoryColor}
+                className='zoom'
               />
             </SliderItem>
           );
