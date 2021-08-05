@@ -1,5 +1,6 @@
 {
   "name": "leonardo-flix",
+  "homepage": "https://LeonardoCarreraSilva.github.io/leonardoFlix",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,7 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
@@ -37,6 +38,4 @@
   "devDependencies": {
     "gh-pages": "^3.2.3"
   }
-
-  
 }

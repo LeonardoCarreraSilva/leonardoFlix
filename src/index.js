@@ -11,11 +11,11 @@ import CadastroCategoria from './pages/cadastro/Categoria';
 ReactDOM.render(
   <BrowserRouter>
     <Switch>
-      <Route path="/" component={Home} exact />
+      <Route path="https://leonardocarrerasilva.github.io/leonardoFlix" component={Home} exact />
       <Route path="/cadastro/video" component={CadastroVideo} />
       <Route path="/cadastro/categoria" component={CadastroCategoria} />
       
-      <Route component={() => (<div> Paggina 404 </div>)} />
+      <Route component={() => (<div> Erro 404 </div>)} />
     </Switch>
   </BrowserRouter>,
   document.getElementById('root')
