@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "07ddfb2b788129213bbb70c8535d3c57",
+    "revision": "ec6629ce62f864a6766b65ff434567d4",
     "url": "/leonardoFlix/index.html"
   },
   {
-    "revision": "2af6ced7959dfe70f522",
+    "revision": "ed73eeed90df402a3da0",
     "url": "/leonardoFlix/static/css/main.7fced621.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/leonardoFlix/static/js/2.8eff4410.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2af6ced7959dfe70f522",
-    "url": "/leonardoFlix/static/js/main.7bcbae5d.chunk.js"
+    "revision": "ed73eeed90df402a3da0",
+    "url": "/leonardoFlix/static/js/main.ed08c008.chunk.js"
   },
   {
     "revision": "35523b81211e1c3102aa",
