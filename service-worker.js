@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/leonardoFlix/precache-manifest.80e1640d35ff3aa773e350bd7aac3171.js"
+  "/leonardoFlix/precache-manifest.f70172ff200be7cf7b2a394fc18f6be3.js"
 );
 
 self.addEventListener('message', (event) => {
